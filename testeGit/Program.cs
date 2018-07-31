@@ -12,6 +12,7 @@ namespace testeGit
         {
             Console.WriteLine("Testando versionamento do gitHub");
             Console.WriteLine("teste");
+            Console.WriteLine("este3");
             Console.ReadKey();
         }
     }
